@@ -52,8 +52,8 @@ Chaque utilisateur hébergé dispose de :
 **1. Cloner le dépôt**
 
 ```bash
-git clone https://github.com/votre-utilisateur/projet-ota.git
-cd projet-ota
+git clone https://github.com/NoxKirna/projet-ota.git
+cd ota
 ```
 
 **2. Rendre le script exécutable**
