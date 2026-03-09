@@ -52,7 +52,7 @@ Chaque utilisateur hébergé dispose de :
 **1. Cloner le dépôt**
 
 ```bash
-git clone https://github.com/NoxKirna/projet-ota.git
+git clone https://github.com/NoxKirna/ota.git
 cd ota
 ```
 
