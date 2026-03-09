@@ -11,13 +11,13 @@
 - [Installation](#installation)
 - [Utilisation](#utilisation)
 - [Fonctionnalités](#fonctionnalités)
-  - [0 — Installer les prérequis](#0--installer-les-prérequis)
-  - [1 — Créer un hébergement](#1--créer-un-hébergement)
-  - [2 — Supprimer un hébergement](#2--supprimer-un-hébergement)
-  - [3 — Modifier un hébergement](#3--modifier-un-hébergement)
-  - [4 — Afficher un hébergement](#4--afficher-un-hébergement)
-  - [5 — Gestion des bases de données](#5--gestion-des-bases-de-données)
-  - [6 — Informations serveur](#6--informations-serveur)
+  - [Option 0 — Installer les prérequis](#option-0--installer-les-prérequis)
+  - [Option 1 — Créer un hébergement](#option-1--créer-un-hébergement)
+  - [Option 2 — Supprimer un hébergement](#option-2--supprimer-un-hébergement)
+  - [Option 3 — Modifier un hébergement](#option-3--modifier-un-hébergement)
+  - [Option 4 — Afficher un hébergement](#option-4--afficher-un-hébergement)
+  - [Option 5 — Gestion des bases de données](#option-5--gestion-des-bases-de-données)
+  - [Option 6 — Informations serveur](#option-6--informations-serveur)
 - [Arborescence du serveur](#arborescence-du-serveur)
 - [Technologies utilisées](#technologies-utilisées)
 
@@ -98,7 +98,7 @@ Naviguez en tapant le **numéro** correspondant puis en appuyant sur `Entrée`.
 
 ## Fonctionnalités
 
-### 0 — Installer les prérequis
+### Option 0 — Installer les prérequis
 
 > **À exécuter une seule fois** lors de la première utilisation.
 
@@ -115,7 +115,7 @@ Cette option installe et configure automatiquement :
 
 ---
 
-### 1 — Créer un hébergement
+### Option 1 — Créer un hébergement
 
 Permet de créer un compte complet pour un nouvel utilisateur.
 
@@ -139,7 +139,7 @@ Accès SSH ? (oui/non) : non
 
 ---
 
-### 2 — Supprimer un hébergement
+### Option 2 — Supprimer un hébergement
 
 Supprime **intégralement** un utilisateur et toutes ses ressources.
 
@@ -164,7 +164,7 @@ Nom de l'utilisateur à supprimer (utilise TAB) : client1
 
 ---
 
-### 3 — Modifier un hébergement
+### Option 3 — Modifier un hébergement
 
 Permet de modifier les paramètres d'un hébergement existant.
 
@@ -185,7 +185,7 @@ Choix :
 
 ---
 
-### 4 — Afficher un hébergement
+### Option 4 — Afficher un hébergement
 
 Affiche la liste des utilisateurs hébergés avec leur espace utilisé, puis permet de consulter le détail d'un utilisateur spécifique.
 
@@ -223,7 +223,7 @@ Le script télécharge la dernière version de WordPress et la déploie dans `/h
 
 ---
 
-### 5 — Gestion des bases de données
+### Option 5 — Gestion des bases de données
 
 Gestion manuelle des bases de données MariaDB, indépendamment des comptes utilisateurs.
 
@@ -236,7 +236,7 @@ Choix :
 
 ---
 
-### 6 — Informations serveur
+### Option 6 — Informations serveur
 
 Affiche un tableau de bord général du serveur :
 
