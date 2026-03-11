@@ -68,7 +68,7 @@ Chaque client dispose de son propre environnement **complètement isolé** :
 
 ```bash
 # 1. Cloner le dépôt
-git clone https://github.com/<ton-pseudo>/projet-ota.git
+git clone https://github.com/NoxKirna/projet-ota.git
 cd projet-ota
 
 # 2. Rendre le script exécutable
