@@ -9,7 +9,7 @@
 ![OS](https://img.shields.io/badge/OS-Debian%20%7C%20Ubuntu-orange?style=for-the-badge&logo=linux)
 ![License](https://img.shields.io/badge/license-MIT-purple?style=for-the-badge)
 
-*Développé par **NoxKirna***
+*Développé par **NoxKirna et gemini,claude***
 
 </div>
 
